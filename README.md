@@ -18,8 +18,8 @@
 
 个人经历
 ====
-* 2019.05 参加校内互联网+比赛,开发一个
-* 自己开发一个开源的在线/本地音乐播放器https://github.com/SkUnK-cc/MSCloudMusic
+* 2019.05 参加校内互联网+比赛,开发一个化妆APP
+* 自己开发一个开源的在线/本地音乐播放器APP https://github.com/SkUnK-cc/MSCloudMusic
 
 技能清单
 ====
