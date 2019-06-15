@@ -1,2 +1,3 @@
 # MyResume
-求一个Android应用开发实习岗位
+求职方向：Android应用开发[实习生]
+====
