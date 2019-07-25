@@ -8,6 +8,7 @@
 * 手机：150-1725-3118
 * Email：1057415595@qq.com
 * Github：https://github.com/SkUnK-cc
+* Blog：https://blog.csdn.net/XG1057415595
 
 教育背景
 =====
@@ -19,7 +20,7 @@
 
 个人经历
 ====
-* 2018.09 独立开发一个开源的音乐播放器APP，采用MVP模式开发。资源使用百度音乐API，支持在线音乐播放、本地音乐播放、播放MV，涉及多文件多线程异步下载、断点续传、滑动冲突、自定义View等，使用Retrofit+RxJava+OkHttp构建网络请求，图片加载框架Glide。
+* 2018.09 独立开发一个开源的音乐播放器APP，采用MVP模式开发。资源使用百度音乐API，支持在线音乐播放、本地音乐播放、播放MV，涉及多文件多线程异步下载、断点续传、滑动冲突、自定义View等，使用Retrofit+RxJava+OkHttp构建网络请求，图片加载框架Glide。</br>项目详情github地址：https://github.com/SkUnK-cc/MSCloudMusic
 
 * 2019.05 团队参加校内“互联网+”比赛,项目中主要负责Android端开发，开发一个美妆APP，以后台的人脸识别技术为核心，配合摄像头，上传相片实现人脸五官检测识别，进行妆容匹配。 
 
